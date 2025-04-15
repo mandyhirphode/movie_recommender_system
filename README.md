@@ -36,7 +36,9 @@ Movie_Recommender/ │
 git clone https://github.com/mandyhirphode/movie_recommender_system.git
 cd movie_recommender_system
 Install dependencies
-pip install -r requirements.txt'''
+pip install -r requirements.txt
+```
+
 
 
 🧠 Model Files
