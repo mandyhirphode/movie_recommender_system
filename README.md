@@ -38,7 +38,6 @@ cd movie_recommender_system
 Install dependencies
 pip install -r requirements.txt'''
 
----
 
 🧠 Model Files
 This project depends on 3 pre-trained .pkl files.
@@ -48,19 +47,16 @@ movie_dict.pkl =
 movies.pkl = 
 similarity.pkl =
 
----
 
 ▶️ Run the App
 
 python app.py
 Then open http://127.0.0.1:5000/ in your browser.
 
----
 
 🌐 Demo
 You can deploy this on Heroku, Render, or any cloud platform.
 
----
 
 📊 Dataset Source
 TMDb 5000 Movies and Credits Dataset from Kaggle
