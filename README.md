@@ -40,7 +40,7 @@ pip install -r requirements.txt'''
 
 ---
 
-## 🧠 Model Files
+🧠 Model Files
 This project depends on 3 pre-trained .pkl files.
 Please download them and place them in the root directory:
 
@@ -50,18 +50,18 @@ similarity.pkl =
 
 ---
 
-## ▶️ Run the App
+▶️ Run the App
 
 python app.py
 Then open http://127.0.0.1:5000/ in your browser.
 
 ---
 
-## 🌐 Demo
+🌐 Demo
 You can deploy this on Heroku, Render, or any cloud platform.
 
 ---
 
-## 📊 Dataset Source
+📊 Dataset Source
 TMDb 5000 Movies and Credits Dataset from Kaggle
 
