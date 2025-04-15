@@ -43,6 +43,7 @@ cd movie_recommender_system
 pip install -r requirements.txt
 ```
 
+---
 
 ## ▶️ Run the App
 ```
@@ -50,10 +51,12 @@ python app.py
 ```
 Then open http://127.0.0.1:5000/ in your browser.
 
+---
 
 ## 🌐 Demo
 You can deploy this on Heroku, Render, or any cloud platform.
 
+---
 
 ## 📊 Dataset Source
 TMDb 5000 Movies and Credits Dataset from Kaggle
