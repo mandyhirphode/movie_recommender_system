@@ -5,8 +5,8 @@ import requests
 import gdown  # Google Drive file fetch करण्यासाठी
 
 # Google Drive URL (फाइल IDs वापरून)
-movie_dict_url = 'https://drive.google.com/file/d/1Vmsa2I_5_xgeh3crTrIoE6_tneLFZOZV/view?usp=sharing'  # तुमचा movie_dict.pkl फाइल ID
-similarity_url = 'https://drive.google.com/file/d/1R91wgyf8ELWftBJaS-OlOfH-r2-nbpPP/view?usp=sharing'  # तुमचा similarity.pkl फाइल ID
+movie_dict_url = 'https://drive.google.com/uc?id=1Vmsa2I_5_xgeh3crTrIoE6_tneLFZOZV'  # तुमचा movie_dict.pkl फाइल ID
+similarity_url = 'https://drive.google.com/uc?id=1R91wgyf8ELWftBJaS-OlOfH-r2-nbpPP'  # तुमचा similarity.pkl फाइल ID
 
 # Download pickle files from Google Drive
 gdown.download(movie_dict_url, 'movie_dict.pkl', quiet=False)
